@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on wind colors , a website to create and share color palettes.<br>👯 I am looking to collaborate on front end projects.<br>🌱 I am currently learning next.<br>💬 We can be friends ? sure we can<br>⚡ Fun fact , besides web development I also like to program video games with unity.
+🔭 I'm currently working on wind colors , a website to create and share color palettes.<br>🌱 I am currently learning typescript.<br>💬 We can be friends ? sure we can
 
 
 ## 🌐 Socials:
